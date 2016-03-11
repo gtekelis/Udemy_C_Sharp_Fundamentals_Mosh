@@ -1,0 +1,6 @@
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Lists_Udemy_Ex4\bin\Debug\Lists_Udemy_Ex4.exe.config
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Lists_Udemy_Ex4\bin\Debug\Lists_Udemy_Ex4.exe
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Lists_Udemy_Ex4\bin\Debug\Lists_Udemy_Ex4.pdb
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Lists_Udemy_Ex4\obj\Debug\Lists_Udemy_Ex4.csprojResolveAssemblyReference.cache
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Lists_Udemy_Ex4\obj\Debug\Lists_Udemy_Ex4.exe
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Lists_Udemy_Ex4\obj\Debug\Lists_Udemy_Ex4.pdb

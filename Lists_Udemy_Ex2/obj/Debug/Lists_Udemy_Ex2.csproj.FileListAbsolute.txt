@@ -1,0 +1,5 @@
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Lists_Udemy_Ex2\bin\Debug\Lists_Udemy_Ex2.exe.config
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Lists_Udemy_Ex2\bin\Debug\Lists_Udemy_Ex2.exe
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Lists_Udemy_Ex2\bin\Debug\Lists_Udemy_Ex2.pdb
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Lists_Udemy_Ex2\obj\Debug\Lists_Udemy_Ex2.exe
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Lists_Udemy_Ex2\obj\Debug\Lists_Udemy_Ex2.pdb
