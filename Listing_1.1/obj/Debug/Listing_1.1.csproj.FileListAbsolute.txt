@@ -4,3 +4,6 @@ C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Listing_1.1\bin\
 C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Listing_1.1\obj\Debug\Listing_1.1.csprojResolveAssemblyReference.cache
 C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Listing_1.1\obj\Debug\Listing_1.1.exe
 C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Listing_1.1\obj\Debug\Listing_1.1.pdb
+C:\Users\gtekelis\Source\Repos\Udemy_C_Sharp_Fundamentals_Mosh\Listing_1.1\bin\Debug\Listing_1.1.exe.config
+C:\Users\gtekelis\Source\Repos\Udemy_C_Sharp_Fundamentals_Mosh\Listing_1.1\obj\Debug\Listing_1.1.exe
+C:\Users\gtekelis\Source\Repos\Udemy_C_Sharp_Fundamentals_Mosh\Listing_1.1\obj\Debug\Listing_1.1.pdb
