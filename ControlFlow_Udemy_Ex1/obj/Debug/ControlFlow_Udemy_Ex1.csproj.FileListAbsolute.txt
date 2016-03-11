@@ -1,0 +1,5 @@
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\ControlFlow_Udemy_Ex1\bin\Debug\ControlFlow_Udemy_Ex1.exe.config
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\ControlFlow_Udemy_Ex1\bin\Debug\ControlFlow_Udemy_Ex1.exe
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\ControlFlow_Udemy_Ex1\bin\Debug\ControlFlow_Udemy_Ex1.pdb
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\ControlFlow_Udemy_Ex1\obj\Debug\ControlFlow_Udemy_Ex1.exe
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\ControlFlow_Udemy_Ex1\obj\Debug\ControlFlow_Udemy_Ex1.pdb

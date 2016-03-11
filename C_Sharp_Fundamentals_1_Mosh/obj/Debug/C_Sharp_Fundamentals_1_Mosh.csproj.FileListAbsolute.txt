@@ -1,0 +1,6 @@
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\C_Sharp_Fundamentals_1_Mosh\bin\Debug\C_Sharp_Fundamentals_1_Mosh.exe.config
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\C_Sharp_Fundamentals_1_Mosh\bin\Debug\C_Sharp_Fundamentals_1_Mosh.exe
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\C_Sharp_Fundamentals_1_Mosh\bin\Debug\C_Sharp_Fundamentals_1_Mosh.pdb
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\C_Sharp_Fundamentals_1_Mosh\obj\Debug\C_Sharp_Fundamentals_1_Mosh.csprojResolveAssemblyReference.cache
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\C_Sharp_Fundamentals_1_Mosh\obj\Debug\C_Sharp_Fundamentals_1_Mosh.exe
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\C_Sharp_Fundamentals_1_Mosh\obj\Debug\C_Sharp_Fundamentals_1_Mosh.pdb
