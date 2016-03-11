@@ -1,0 +1,6 @@
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Loops_Udemy_Ex5\bin\Debug\Loops_Udemy_Ex5.exe.config
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Loops_Udemy_Ex5\obj\Debug\Loops_Udemy_Ex5.csprojResolveAssemblyReference.cache
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Loops_Udemy_Ex5\bin\Debug\Loops_Udemy_Ex5.exe
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Loops_Udemy_Ex5\bin\Debug\Loops_Udemy_Ex5.pdb
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Loops_Udemy_Ex5\obj\Debug\Loops_Udemy_Ex5.exe
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Loops_Udemy_Ex5\obj\Debug\Loops_Udemy_Ex5.pdb

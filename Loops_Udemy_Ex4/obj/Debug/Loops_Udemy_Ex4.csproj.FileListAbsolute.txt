@@ -1,0 +1,5 @@
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Loops_Udemy_Ex4\bin\Debug\Loops_Udemy_Ex4.exe.config
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Loops_Udemy_Ex4\bin\Debug\Loops_Udemy_Ex4.exe
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Loops_Udemy_Ex4\bin\Debug\Loops_Udemy_Ex4.pdb
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Loops_Udemy_Ex4\obj\Debug\Loops_Udemy_Ex4.exe
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Loops_Udemy_Ex4\obj\Debug\Loops_Udemy_Ex4.pdb
