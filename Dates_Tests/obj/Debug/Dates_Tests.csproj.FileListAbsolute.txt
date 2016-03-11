@@ -1,0 +1,6 @@
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Dates_Tests\bin\Debug\Dates_Tests.exe.config
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Dates_Tests\bin\Debug\Dates_Tests.exe
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Dates_Tests\bin\Debug\Dates_Tests.pdb
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Dates_Tests\obj\Debug\Dates_Tests.csprojResolveAssemblyReference.cache
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Dates_Tests\obj\Debug\Dates_Tests.exe
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Dates_Tests\obj\Debug\Dates_Tests.pdb

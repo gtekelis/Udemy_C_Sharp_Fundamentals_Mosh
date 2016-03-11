@@ -1,0 +1,5 @@
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\RandomNumbersClass_Udemy_Lecture47\bin\Debug\RandomNumbersClass_Udemy_Lecture47.exe.config
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\RandomNumbersClass_Udemy_Lecture47\bin\Debug\RandomNumbersClass_Udemy_Lecture47.exe
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\RandomNumbersClass_Udemy_Lecture47\bin\Debug\RandomNumbersClass_Udemy_Lecture47.pdb
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\RandomNumbersClass_Udemy_Lecture47\obj\Debug\RandomNumbersClass_Udemy_Lecture47.exe
+C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\RandomNumbersClass_Udemy_Lecture47\obj\Debug\RandomNumbersClass_Udemy_Lecture47.pdb
