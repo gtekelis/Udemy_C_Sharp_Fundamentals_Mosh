@@ -17,7 +17,28 @@ namespace Text_Udemy_Ex2
 
         static void Main(string[] args)
         {
+            Console.WriteLine("Enter numbers separated with hyphens...");
+            var input = Console.ReadLine();
+            var arr = input.Split('-');
+            var isDuplicate = false;
 
+            for (int i = 0; i < arr.Length; i++)
+            {
+                if (isDuplicate == false)
+                {
+                    Console.WriteLine("outer {0}", arr[i]);
+                    for (int j = i + 1; j < arr.Length; j++)
+                    {
+                        Console.WriteLine("inner {0}", arr[j]);
+                        if (arr[i] == arr[j])
+                        {
+                            Console.WriteLine("Duplicate");
+                            isDuplicate = true;
+                            break;
+                        }
+                    }
+                }
+            }
         }
     }
 }

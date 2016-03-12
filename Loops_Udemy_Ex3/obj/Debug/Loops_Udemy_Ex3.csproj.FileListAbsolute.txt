@@ -3,3 +3,6 @@ C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Loops_Udemy_Ex3\
 C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Loops_Udemy_Ex3\bin\Debug\Loops_Udemy_Ex3.pdb
 C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Loops_Udemy_Ex3\obj\Debug\Loops_Udemy_Ex3.exe
 C:\Users\gtekelis\Documents\Visual Studio 2015\Projects\MyTests\Loops_Udemy_Ex3\obj\Debug\Loops_Udemy_Ex3.pdb
+C:\_Works\George\_Tests\Udemy_CSharp_Fundamentals\Loops_Udemy_Ex3\bin\Debug\Loops_Udemy_Ex3.exe.config
+C:\_Works\George\_Tests\Udemy_CSharp_Fundamentals\Loops_Udemy_Ex3\obj\Debug\Loops_Udemy_Ex3.exe
+C:\_Works\George\_Tests\Udemy_CSharp_Fundamentals\Loops_Udemy_Ex3\obj\Debug\Loops_Udemy_Ex3.pdb
